@@ -20,7 +20,7 @@
 <h3 align="center">Most Wanted Language</h3>
 <p align="center">
   <a href="https://github.com/samarjit-sahoo/Python_Practice.git" target="_blank">
-    <img align="center" src="[assets/python.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png)" alt="Python" height="65" width="65" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" height="65" width="65" />
   </a>
 </p>
 
