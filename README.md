@@ -1,12 +1,12 @@
  
 <p align="center">
-  <img src="assets/header.png"/>
+  <img src="header.png"/>
 </p>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Samarjit+Sahoo;Software+Engineer" width="auto" height="35"/>
 </p>
 <p align="center">
-  <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
+  <img alt="Coding GIF" width="300" height="auto" src="coding.gif"/>
 </p>
 
 <h3 align="center">My interests</h3>
@@ -52,15 +52,15 @@
 <h3 align="center">Connect with Me</h3>
 <p align="center">
   <a href="mailto:samarjit9203@gmail.com" target="_blank">
-    <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
+    <img align="center" src="gmail.png" alt="mail" height="50" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://samarjit-sahoo.vercel.app" target="_blank">
-    <img align="center" src="assets/web.png" alt="website" height="50" width="50" />
+    <img align="center" src="web.png" alt="website" height="50" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/samarjit-sahoo/" target="_blank">
-    <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
+    <img align="center" src="linkedin.png" alt="linkedin" height="60" width="60" />
   </a>
 </p>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
