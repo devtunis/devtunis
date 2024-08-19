@@ -11,10 +11,10 @@
 
 <h3 align="center">My interests</h3>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Full+Stack;DEV+WEB" width="auto" height="35"/>
 </p>
 
-<p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
+<p align="center">Currently learning -Full Stack JS and Machine Learning</p>
 <p align="center">Currently working on - Private Projects</p>
 
 <h3 align="center">Most Wanted Language</h3>
