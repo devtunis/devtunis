@@ -45,19 +45,7 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarjit-sahoo&theme=transparent" height="180em" alt="Commitments"/>
 </div>
 
- 
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="mailto:samarjit9203@gmail.com" target="_blank">
-    <img align="center" src="gmail.png" alt="mail" height="50" width="55" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://samarjit-sahoo.vercel.app" target="_blank">
-    <img align="center" src="web.png" alt="website" height="50" width="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/samarjit-sahoo/" target="_blank">
-    <img align="center" src="linkedin.png" alt="linkedin" height="60" width="60" />
-  </a>
-</p>
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
