@@ -7,20 +7,7 @@
  
     
        
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Nahdi+Ghaith;Software+Engineer" width="auto" height="35"/>
-</p>
-<p align="center">
-  <img alt="Coding GIF" width="300" height="auto" src="coding.gif"/>
-</p>
 
-
-
-<h3 align="center">Most Wanted Language</h3>
-<p align="center">
-  <a href="https://github.com/samarjit-sahoo/Python_Practice.git" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" height="65" width="65" />
-  </a>
 
 
  <div align="center">
