@@ -6,10 +6,7 @@
   
  
     
-        
-<p align="center">
-  <img src="header.png"/>
-</p>
+       
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Nahdi+Ghaith;Software+Engineer" width="auto" height="35"/>
 </p>
@@ -17,13 +14,7 @@
   <img alt="Coding GIF" width="300" height="auto" src="coding.gif"/>
 </p>
 
-<h3 align="center">My interests</h3>
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Full+Stack;DEV+WEB" width="auto" height="35"/>
-</p>
 
-<p align="center">Currently learning -Full Stack JS </p>
-<p align="center">Currently working on - Private Projects</p>
 
 <h3 align="center">Most Wanted Language</h3>
 <p align="center">
@@ -71,10 +62,6 @@
 
 
 
-## Contributions
-![GHAITH's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=TUNISIA-user&theme=react-dark)
-
- 
 
 
  
