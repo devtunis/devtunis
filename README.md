@@ -12,12 +12,6 @@
  
     
        
-
-
- <img src="[supportitem.pncg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZrhSmCcV7-XhQJcJ7Fr7-IzM0DD4dzGbu_w&s)"/>
- 
- 
-
  
 
  
