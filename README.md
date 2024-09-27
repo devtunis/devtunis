@@ -15,4 +15,11 @@
         twitter = "nahdigyth ©"
     }
 }
+
+  .post {
+  z-index :  2 ;
+  }
+  .overlay{
+    z-index : 1;
+  }
 </pre>
