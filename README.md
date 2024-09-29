@@ -1,1 +1,4 @@
  
+useEffect(()=>{
+happy() ;
+},[Person])
