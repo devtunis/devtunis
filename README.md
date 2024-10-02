@@ -1,7 +1,7 @@
 <pre> 
 useEffect(()=>{
 happy() ;
-},[Person])
+},[Person]) 
 
   </pre> 
  
