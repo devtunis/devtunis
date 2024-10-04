@@ -52,6 +52,13 @@ int main()
     return 0;
 }
 
+
+
+
+      const TestIds = (id, arr) => {
+  return arr.some(item => item === id); // Returns true if id IS found in arr
+}
+  i love some functiion
       
   </pre> 
  
