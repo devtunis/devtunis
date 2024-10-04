@@ -1,6 +1,6 @@
 <pre> 
 const Person = ["1","2"]
-useEffect(()=>{
+useEffect(()=>{ 
 happy() ;
 },[Person]) 
 function happy(){
