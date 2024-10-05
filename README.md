@@ -7,5 +7,5 @@
     <!-- Add more logos here -->
 </div>
 
- , [ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" style={height:"10px"} />])
+ ,      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" style="width: 20px; height: 20px;" />)
  
