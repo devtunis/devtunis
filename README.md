@@ -1,5 +1,5 @@
  useEffect(()=>{
  console.log(react)
  }
- , [ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo"  />])
+ , [ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" width:'10px' />])
  
