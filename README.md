@@ -6,7 +6,7 @@ happy() ;
 function happy(){
 const newPerson = animals.findIndex(id => id === '1');
   }
-
+ 
 
   -----------------------------------------
   // im shiftinng people like this alog 
