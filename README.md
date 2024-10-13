@@ -1,4 +1,9 @@
+ 
+<pre>
 noTifaction: { 
   type: [Object], 
-  default: () => 
+  default: () => []
 }
+
+  
+</pre>
