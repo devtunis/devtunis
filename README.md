@@ -1,5 +1,10 @@
  
 <pre>
+
+arr.filter((item)=>item.length>0)
+ .map((item)=>console.log(item))   //  this is Power condtion for  check data   🎉🎉🎉
+
+ 
 noTifaction: { 
   type: [Object], 
   default: () => []
