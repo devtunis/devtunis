@@ -5,6 +5,10 @@ noTifaction: {
   default: () => []
 }
 
+ const A = {name:"Ghaith"};
+console.log(Object.keys(A).length); 
+
+ 
 import { createAction, props } from '@ngrx/store';
 
 export const loadData = createAction('[Data Page] Load Data');
