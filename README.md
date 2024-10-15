@@ -45,5 +45,23 @@ int main()
 }
 
 
+
+
+   const arr = [{ post: "user1" }, { post: "user2" }, { post: "user3" }];
+
+// Function to shuffle an array
+function shuffle(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));  // Random index
+    [array[i], array[j]] = [array[j], array[i]];    // Swap elements
+  }
+  return array;
+}
+
+const shuffledArr = shuffle([...arr]);  // Shuffle a copy of the original array
+console.log(shuffledArr);  // Random order, no duplicates
+
+
+   
    
 </pre>
