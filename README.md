@@ -1,4 +1,4 @@
-  
+$set +> can support many opeartion  
 <pre> 
 
 arr.filter((item)=>item.length>0)
