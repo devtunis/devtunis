@@ -1,4 +1,5 @@
 $set +> can support many opeartion  
+# github functiion {}{} 
 <pre> 
 
 arr.filter((item)=>item.length>0)
