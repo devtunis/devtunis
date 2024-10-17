@@ -67,7 +67,7 @@ console.log(shuffledArr);  // Random order, no duplicates
     // i love this way to update 
 
      
-        let UpdateChat  = await ChatTalking.findOne({
+        let UpdateChat  = await ChatTalking.findoneandUpdate({
 
             $and: [
                 { users: { $elemMatch: { $eq: req.params.id } } }, 
