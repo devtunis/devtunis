@@ -62,6 +62,25 @@ const shuffledArr = shuffle([...arr]);  // Shuffle a copy of the original array
 console.log(shuffledArr);  // Random order, no duplicates
 
 
-   
+
+
+    // i love this way to update 
+
+     
+        let UpdateChat  = await ChatTalking.findOne({
+
+            $and: [
+                { users: { $elemMatch: { $eq: req.params.id } } }, 
+                { users: { $elemMatch: { $eq: userId } } }  
+            ]
+
+
+        },
+
+        {$set : {BLOCK:true}},
+        {new : true}
+    
+    );
+    
    
 </pre>
