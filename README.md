@@ -1,5 +1,7 @@
             
-# useUpdateEffect
-  
-React effect hook that ignores the first invocation (e.g. on mount). The signature is exactly the same as the useEffect ho
+const obj = { hello: "world" };
+const blob = new Blob([JSON.stringify(obj, null, 2)], {
+  type: "application/json",
+});
+
  
