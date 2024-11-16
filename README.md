@@ -51,6 +51,52 @@ app.get("/room/:roomId", (req, res) => {
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 
 
- 
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+  package main
+
+import (
+    "github.com/gin-gonic/gin"
+    "net/http"
+)
+
+// Struct to define a simple item
+type Item struct {
+    ID   int    `json:"id"`
+    Name string `json:"name"`
+}
+
+var items = []Item{
+    {ID: 1, Name: "Item 1"},
+    {ID: 2, Name: "Item 2"},
+}
+
+func main() {
+    r := gin.Default()
+
+    // GET endpoint to fetch all items
+    r.GET("/items", func(c *gin.Context) {
+        c.JSON(http.StatusOK, items)
+    })
+
+    // POST endpoint to create a new item
+    r.POST("/items", func(c *gin.Context) {
+        var newItem Item
+        if err := c.ShouldBindJSON(&newItem); err != nil {
+            c.JSON(http.StatusBadRequest, gin.H{"error": err.Error()})
+            return
+        }
+        items = append(items, newItem)
+        c.JSON(http.StatusCreated, newItem)
+    })
+
+    // Start the server
+    r.Run(":8080")
+}
+
+
+  
 </pre>
  
