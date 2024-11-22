@@ -143,6 +143,6 @@ export default function App() {
     </div>
   );
 }
-  
+  destroy function cause useffect does not accept async function should be do function insdide useEffect and call it inside it 
 </pre>
  
