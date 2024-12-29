@@ -1,4 +1,4 @@
-
+ 
 #include <stdio.h>
 
 int global_variable = 10;
