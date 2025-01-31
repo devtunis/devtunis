@@ -13,3 +13,5 @@
     border-inline-start: 10px solid red;
    } 
  </pre>
+
+<img src="wallper.jpg"><img/>
