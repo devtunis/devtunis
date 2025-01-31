@@ -1,5 +1,16 @@
 
   <pre>
+
+    useEffect(() => {
+  for (let i = 0; i < 100; i++) {
+    setTimeout(() => {
+      
+    }, i * 100); // Delay the life with each iteration
+  }
+}, []);
+
+
+    
 npm install react-router-dom@6.26.2
 
    #Me {
