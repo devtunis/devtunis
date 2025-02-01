@@ -1,6 +1,9 @@
-
+  
   <pre>
+     position: relative;
+    overflow: hidden;   
 
+    //------------------
 import time
 n = 10
 i = 0
