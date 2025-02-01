@@ -1,6 +1,23 @@
 
   <pre>
 
+import time
+n = 10
+i = 0
+
+while True:
+
+    if i<n:
+        i=i+1
+    else:
+        i=n
+        while i>0:
+            print(i)
+            i=i-1
+        i = 0
+    
+    //------------------------------
+
     useEffect(() => {
   for (let i = 0; i < 100; i++) {
     setTimeout(() => {
