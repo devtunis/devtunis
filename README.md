@@ -1,5 +1,40 @@
         
   <pre>
+
+          arr = [5,4,3,2,1]
+
+sawpped= True
+
+def perumter(arr,x,y):
+    arr[x],arr[y] = arr[y],arr[x]
+    
+def sorting__alogrithme(arr):
+    global sawpped
+    if len(arr)==1:return arr
+
+    if sawpped == False:return arr 
+    
+    
+    else:
+        sawpped = False
+        i  = 0
+        while i  < len(arr)-1:
+            if arr[i]>arr[i+1]:
+                perumter(arr,i,i+1)
+                sawpped = True
+            i+=1
+         
+        if sawpped :sorting__alogrithme(arr)
+        
+print(arr)         
+sorting__alogrithme(arr)
+print(arr)
+
+
+
+
+
+                
      position: relative;
     overflow: hidden;   
 
