@@ -1,6 +1,17 @@
         
   <pre> 
 
+ # love this idea so much
+          
+              global ptr
+    lastPtr = ptr  # Start from the head pointer
+    prevPtr = None  # Keep track of the last valid node
+
+    while lastPtr is not None:
+        prevPtr = lastPtr  # Store the last valid node before updating lastPtr
+        lastPtr = ram[lastPtr]['ref']  # Move to the next node
+    
+    print(prevPtr)
           arr = [5,4,3,2,1]
 
 sawpped= True
