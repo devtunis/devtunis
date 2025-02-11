@@ -1,6 +1,6 @@
          
   <pre> 
-
+ 
  # love this idea so much
           
               global ptr
