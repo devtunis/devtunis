@@ -1,3 +1,5 @@
+  
+<pre>
 const items = document.querySelectorAll(".card");
 
 items.forEach((item) => {
@@ -10,7 +12,7 @@ items.forEach((item) => {
             fill: 'forwards'
         });
     });
-});
-
+}); 
+</pre>
                
 <img src="wallper.jpg"><img/>
