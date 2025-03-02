@@ -1,7 +1,7 @@
   
 <pre>
  this solution for this data when the script does not wokring  Set-ExecutionPolicy RemoteSigned
-
+  
   
 const items = document.querySelectorAll(".card");
 
