@@ -1,5 +1,5 @@
     
-<pre>
+<pre> 
  this solution for this data when the script does not wokring  Set-ExecutionPolicy RemoteSigned
   
     
