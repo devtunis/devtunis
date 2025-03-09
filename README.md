@@ -1,5 +1,9 @@
      
 <pre>  
+      const query = { _id: ObjectId(req.params.id) };
+    const collection = db.collection("posts");
+    const result = await collection.deleteOne(query);
+     
  this solution for this data when the script does not wokring  Set-ExecutionPolicy RemoteSigned
   
     
