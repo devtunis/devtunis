@@ -1,5 +1,5 @@
      
-<pre>  
+<pre>   
       const query = { _id: ObjectId(req.params.id) };
     const collection = db.collection("posts");
     const result = await collection.deleteOne(query);
