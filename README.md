@@ -1,4 +1,4 @@
-     
+      
 <pre>   
       const query = { _id: ObjectId(req.params.id) };
     const collection = db.collection("posts");
