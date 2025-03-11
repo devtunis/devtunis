@@ -1,5 +1,12 @@
       
 <pre>   
+       
+let updatedUsers = Object.fromEntries(
+    Object.entries(Users).filter(([key]) => key !== remove)
+);
+
+console.log(updatedUsers);
+      
       const query = { _id: ObjectId(req.params.id) };
     const collection = db.collection("posts");
     const result = await collection.deleteOne(query);
