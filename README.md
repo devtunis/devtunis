@@ -1,6 +1,6 @@
        
 <pre>    
-       
+        
 let updatedUsers = Object.fromEntries( 
     Object.entries(Users).filter(([key]) => key !== remove)
 );
