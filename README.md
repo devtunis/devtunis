@@ -5,4 +5,6 @@ state.Basekt.push({...action.payload, quanitity: 1}) =>       {name:"ghaith",qua
 
 //
   state.Basekt.push({action.payload, quanitity: 1})  {{name:"ghaith"},quanitity:1}
+
+  100vw
 </pre>
