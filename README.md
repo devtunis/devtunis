@@ -12,4 +12,20 @@ state.Basekt.push({...action.payload, quanitity: 1}) =>       {name:"ghaith",qua
   border-left-color: red;
   border-right-color: rgba(255, 0, 0, 0.3); 
  if someone retunr <Promise>                                        he forget the awiat rember this all the time</Promise>
+
+
+
+
+
+
+  | What you want to do                    | Use this            |
+| -------------------------------------- | ------------------- |
+| Find the **first match**               | `array.find()`      |
+| Find the **index** of the first match  | `array.findIndex()` |
+| Get **all matches**                    | `array.filter()`    |
+| Check if **any match** exists          | `array.some()`      |
+| Check if **all items** match condition | `array.every()`     |
+
+
+  
 </pre>
