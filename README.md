@@ -114,7 +114,7 @@ while (true){
 app.use(cookieParser())    // wghen you try to do acces from the token and you dont use 
 // the middleware you gonna mkae undefined    get attention from  this
 
-
+  typscript swc   ==> this transforome es6 *  *
 
   
 </pre>
