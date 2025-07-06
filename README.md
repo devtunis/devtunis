@@ -1,6 +1,9 @@
-<center>    
-<div > 
-  <img src="https://raw.githubusercontent.com/poteto/poteto/refs/heads/master/nice.gif" alt=""/>
-
-  
-</div>     </center>
+<center>
+  <div style={{ width: "100%", display: "flex", justifyContent: "center" }}>
+    <img
+      src="https://raw.githubusercontent.com/poteto/poteto/refs/heads/master/nice.gif"
+      alt=""
+      style={{ width: "100%", maxWidth: "600px", height: "auto" }}
+    />
+  </div>
+</center>
