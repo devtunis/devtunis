@@ -1,5 +1,6 @@
 <pre>npm install YourLife --legacy-peer-deps
 
+  <img src="https://raw.githubusercontent.com/poteto/poteto/refs/heads/master/nice.gif"/>
 const  Person  = YourLfie.find((item)=>item.yourname == "power")
 state.Basekt.push({...action.payload, quanitity: 1}) =>       {name:"ghaith",quanitity:1}
 
