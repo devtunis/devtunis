@@ -1,5 +1,5 @@
 <center>
-  
+  #https://developer.mozilla.org/en-US/docs/Web/API/PerformanceNavigationTiming
   <div style={{ width: "100%", display: "flex", justifyContent: "center" }}>
     <img
       src="https://raw.githubusercontent.com/poteto/poteto/refs/heads/master/nice.gif"
