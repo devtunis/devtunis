@@ -1,4 +1,4 @@
-<center>
+<center> 
   https://developer.mozilla.org/en-US/docs/Web/API/PerformanceNavigationTiming
   <div style={{ width: "100%", display: "flex", justifyContent: "center" }}>
     <img
