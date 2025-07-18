@@ -18,3 +18,10 @@
     
 
 
+const dx = mouse.x - player.x;
+const dy = mouse.y - player.y;
+
+const angle = Math.atan2(dy, dx);
+
+player.x += Math.cos(angle) * speed;
+player.y += Math.sin(angle) * speed;
