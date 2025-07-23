@@ -1,5 +1,16 @@
  
 
+def TestIq(a):
+    try:
+        a = float(input("TestIq  : "))
+        return True
+    except ValueError:
+        return "using flaot number"
+
+while True:
+    a = input("Enter your IQ* ")
+    print(verif(a))
+    
   https://developer.mozilla.org/en-US/docs/Web/API/PerformanceNavigationTiming
   <div style={{ width: "100%", display: "flex", justifyContent: "center" }}>
     <img
