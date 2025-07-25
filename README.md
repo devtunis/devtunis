@@ -1,4 +1,9 @@
- 
+ {
+  "compilerOptions": {
+    // ...
+    "allowImportingTsExtensions": true
+  }
+}
 
 def TestIq(a):
     try:
