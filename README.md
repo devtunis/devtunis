@@ -6,45 +6,7 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>HTTP Status Codes Cheat Sheet</title>
-<style>
-  body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: #f7f9fc;
-    color: #333;
-    padding: 20px;
-    max-width: 900px;
-    margin: auto;
-  }
-  h2 {
-    border-bottom: 2px solid #4a90e2;
-    padding-bottom: 6px;
-    color: #4a90e2;
-  }
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-bottom: 40px;
-    box-shadow: 0 2px 8px rgb(0 0 0 / 0.1);
-  }
-  th, td {
-    text-align: left;
-    padding: 12px 15px;
-    border-bottom: 1px solid #ddd;
-  }
-  th {
-    background-color: #4a90e2;
-    color: white;
-    font-weight: 600;
-  }
-  tr:hover {
-    background-color: #e1efff;
-  }
-  caption {
-    font-weight: 700;
-    margin-bottom: 10px;
-    font-size: 1.2em;
-  }
-</style>
+ 
 </head>
 <body>
 
