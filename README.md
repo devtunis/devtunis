@@ -1,6 +1,6 @@
      https://www.subito.it/annunci-italia/vendita/offerte-lavoro/?q=job
 
-     <!DOCTYPE html>
+    
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
