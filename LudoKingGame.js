@@ -1,4 +1,4 @@
-const players = [
+ const players = [
   { id: 'player1', pieces: [0, 0, 0, 0], home: 0, canMove: true },
   { id: 'player2', pieces: [0, 0, 0, 0], home: 0, canMove: false },
   // Add more players as needed
