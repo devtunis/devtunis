@@ -1,7 +1,7 @@
  
-  <li>tauri</li> 
-  <li>https://v2.tauri.app/fr/ <li>
- <li>https://github.com/gin-gonic/gin/blob/master/docs/doc.md#dont-trust-all-proxies<li>
+  <h3>tauri</h3> 
+  <h3>https://v2.tauri.app/fr/ <h3>
+ <h3>https://github.com/gin-gonic/gin/blob/master/docs/doc.md#dont-trust-all-proxies<h3>
 
  
  
